@@ -77,6 +77,8 @@ Nest is [MIT licensed](LICENSE).
 ---------------------------------------------------------------------------------------------
 Cara menjalankan
 
+Dokumentasi postman
+https://documenter.getpostman.com/view/26438806/2s946chaFQ
 
 git clone https://github.com/soffieanastya/dans_startup.git
 
